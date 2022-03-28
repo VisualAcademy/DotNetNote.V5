@@ -27,8 +27,6 @@ Layout.cshtml 파일에 들어있는 구글 광고 링크는 제거하셔도 됩
 
 http://www.devle.com
 
-https://www.youtube.com/watch?v=xRz2DA8bbbc&list=PLO56HZSjrPTDtR6uKaE7mThbGAUgzvTJe
-
 
 
 ## ASP.NET Core 2.1 버전의 DotNetNote는 다음 경로에 있습니다.
